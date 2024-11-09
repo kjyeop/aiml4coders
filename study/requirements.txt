@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-datasets
+matplotlib
+scipy
+jupyter
+bs4
+tensorflow_hub
